@@ -1,0 +1,4 @@
+C:\Users\isawane\Desktop\movie-search-app\TaskManagerApp\obj\Debug\net9.0\TaskManagerApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\isawane\Desktop\movie-search-app\TaskManagerApp\obj\Debug\net9.0\TaskManagerApp.AssemblyInfoInputs.cache
+C:\Users\isawane\Desktop\movie-search-app\TaskManagerApp\obj\Debug\net9.0\TaskManagerApp.AssemblyInfo.cs
+C:\Users\isawane\Desktop\movie-search-app\TaskManagerApp\obj\Debug\net9.0\TaskManagerApp.csproj.CoreCompileInputs.cache
